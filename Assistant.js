@@ -3,7 +3,7 @@ Assistant = {
         town_names: false,
         player_name: false,
         alliance_name: false,
-        auto_relogin: 0
+        auto_relogin: 120
     },
     init: function () {
         ConsoleLog.Log('Initialize Assistant', 0)
